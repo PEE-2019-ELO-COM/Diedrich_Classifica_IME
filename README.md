@@ -13,3 +13,9 @@ Sistema baseado em webscraping.
 Motivação:
 Não ter um sistema de faltas com detalhamento de atualização e notificação.
 A pontuação máxima mudou para 90 pontos e alguns alunos passam por situações complicados por não ter bom controle de faltas.
+
+Para backend será utilizado Python com biblioteca Selenium para WebScraping e Pandas para tratamento dos dados.
+
+Selenium: https://www.youtube.com/watch?v=GJjMjB3rkJM
+
+Para o Front será utilizado o Django (https://www.youtube.com/watch?v=qgGIqRFvFFk&list=PL6gx4Cwl9DGBlmzzFcLgDhKTTfNLfX1IK)
