@@ -1,20 +1,26 @@
-# Diedrich_EuFaltei
+# Diedrich_Classifica_IME
 Projeto:
-Sistema de faltas Individual.
-Focado em alunos da Reserva do IME / Alunos que participam de competições. 
+Sistema de classificação
+Focado em alunos do IME / Pricipalmente da Ativa. 
 
 Descrição:
-Programa Desktop com armazenamento local. Objetivo de controlar faltas e ultima data de atualização.
+Programa Desktop com armazenamento local. Objetivo de controlar médias e classificação por turma e por engenharia.
 
 Função:
-Monitorar as faltas com rotina de atualização diária, enviar notificação no e-mail quando encontrar novos registros de falta.
+ - Fazer webscraping do granito
+ - Mostrar médias por matéria
+ - Visão geral do aluno
+ - Classificação por turma
+ - Classificação por engenharia
 
 Motivação:
-Não ter um sistema de faltas com detalhamento de atualização e notificação.
-A pontuação máxima mudou para 90 pontos e alguns alunos passam por situações complicados por não ter bom controle de faltas.
+Não ter um sistema otimizado para visualizar todas as informações pessoais e comparativo com a turma.
 
-Programa será desenvolvido utilizando o Visual Studio em linguagem C#.
+Programa será desenvolvido utilizando o Visual Studio em linguagem C#. Webscraping em Python (usando requests e pandas).
 
 Telas do usuário:
 - Configuração
-- Tela de Faltas
+- Notas Individuais
+- Classificação por turma
+- Classificação por engenharia
+- Configuração
