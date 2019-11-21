@@ -44,6 +44,7 @@ session = Login('17407','17407')
 #DF Alunos
 Alunos = pd.DataFrame()
 
+
 for ano in list(range(2016,2020)):
     Aux = DF_Alunos(ano,session)
     Aux['Ano Consulta'] = ano
