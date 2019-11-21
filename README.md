@@ -29,20 +29,20 @@ Telas do usuário:
 
 ##Notas Individuais:
 <p align="center">
-<img src="Img/NotasIndividuais.png" >
+<img src="Img/NotasIndividuais.PNG" >
 </p>
 
 ##Classificação Turma:
 <p align="center">
-<img src="Img/ClassificaTurma.png" >
+<img src="Img/ClassificaTurma.PNG" >
 </p>
 
 ##Classificação Engenharia:
 <p align="center">
-<img src="Img/ClassificaEngenharia.png" >
+<img src="Img/ClassificaEngenharia.PNG" >
 </p>
 
 ##Configuração:
 <p align="center">
-<img src="Img/Configuracao.png" >
+<img src="Img/Configuracao.PNG" >
 </p>
