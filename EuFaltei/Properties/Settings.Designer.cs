@@ -25,7 +25,7 @@ namespace EuFaltei.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        [global::System.Configuration.DefaultSettingValueAttribute("C:\\Users\\Felipe Diedrich\\Desktop\\EuFaltei\\WebScrapingPython\\Alunos.csv")]
         public string Txt_Alunos {
             get {
                 return ((string)(this["Txt_Alunos"]));
@@ -37,7 +37,7 @@ namespace EuFaltei.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        [global::System.Configuration.DefaultSettingValueAttribute("C:\\Users\\Felipe Diedrich\\Desktop\\EuFaltei\\WebScrapingPython\\Notas.csv")]
         public string Txt_Notas {
             get {
                 return ((string)(this["Txt_Notas"]));

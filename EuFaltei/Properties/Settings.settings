@@ -3,10 +3,10 @@
   <Profiles />
   <Settings>
     <Setting Name="Txt_Alunos" Type="System.String" Scope="User">
-      <Value Profile="(Default)" />
+      <Value Profile="(Default)">C:\Users\Felipe Diedrich\Desktop\EuFaltei\WebScrapingPython\Alunos.csv</Value>
     </Setting>
     <Setting Name="Txt_Notas" Type="System.String" Scope="User">
-      <Value Profile="(Default)" />
+      <Value Profile="(Default)">C:\Users\Felipe Diedrich\Desktop\EuFaltei\WebScrapingPython\Notas.csv</Value>
     </Setting>
     <Setting Name="Usuario" Type="System.String" Scope="User">
       <Value Profile="(Default)">17407</Value>
