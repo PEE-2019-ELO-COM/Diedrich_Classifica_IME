@@ -1,8 +1,3 @@
-# Diedrich_Classifica_IME
-Projeto:
-Sistema de classificação
-Focado em alunos do IME. 
-
 ## Descrição:
 Sistema de Notas e Classificação para alunos do IME.
 Consiste em um programa desktop, que visa facilidar a visualização de notas e classficação.
