@@ -3,11 +3,11 @@ Projeto:
 Sistema de classificação
 Focado em alunos do IME. 
 
-# Descrição:
+## Descrição:
 Sistema de Notas e Classificação para alunos do IME.
 Consiste em um programa desktop, que visa facilidar a visualização de notas e classficação.
 
-# Função:
+## Função:
  - Fazer webscraping do granito
  - Mostrar médias por matéria
  - Visão geral do aluno
@@ -15,38 +15,38 @@ Consiste em um programa desktop, que visa facilidar a visualização de notas e 
  - Classificação por engenharia
  - Armazenar os dados do granito em .CSVs, obtendo os dados através de requests http
 
-# Motivação:
+## Motivação:
 O Granito não disponibiliza um acompanhamento de classificação para os alunos, e é necessário estar no IME para consultar qualquer registro.
 O programa visa criar registros individuais que podem ser atualizados quando o aluno está no IME, assim como ver sua classficação.
 
-## Fluxograma:
+### Fluxograma:
 <p align="center">
 <img src="Img/Fluxograma.PNG" >
 </p>
 
-## Diagra de Classes:
+### Diagra de Classes:
 <p align="center">
 <img src="Img/Classes.PNG" >
 </p>
 
-## GUI:
+### GUI:
 
-## Notas Individuais:
+### Notas Individuais:
 <p align="center">
 <img src="Img/NotasIndividuais.PNG" >
 </p>
 
-## Classificação Turma:
+### Classificação Turma:
 <p align="center">
 <img src="Img/ClassificaTurma.PNG" >
 </p>
 
-## Classificação Engenharia:
+### Classificação Engenharia:
 <p align="center">
 <img src="Img/ClassificaEngenharia.PNG" >
 </p>
 
-## Configuração:
+### Configuração:
 <p align="center">
 <img src="Img/Configuracao.PNG" >
 </p>
