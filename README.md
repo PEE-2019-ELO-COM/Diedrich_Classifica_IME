@@ -50,3 +50,7 @@ O programa visa criar registros individuais que podem ser atualizados quando o a
 
 Programa será desenvolvido utilizando o Visual Studio em linguagem C#. Webscraping em Python (usando requests e pandas).
 Para compilar o projeto é possivel installar o mesmo no computador, ou então rodar o projeto Sistema_Alunos.Sln no Visual Studio Community 2017.
+
+Para o dowload de dados, é necessário rodar o script webscraping.py. 
+
+Observação: O processo de obtenção de dados está sendo feito em Python devido a praticidade de extrair tabelas de paginas html com o pandas, em uma proxima versão a obenção de dados também será feito pelo c#.
