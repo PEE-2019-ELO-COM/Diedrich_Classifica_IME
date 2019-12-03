@@ -24,3 +24,25 @@ Telas do usuário:
 - Classificação por turma
 - Classificação por engenharia
 - Configuração
+
+### Telas:
+
+## Notas Individuais:
+<p align="center">
+<img src="Img/NotasIndividuais.PNG" >
+</p>
+
+## Classificação Turma:
+<p align="center">
+<img src="Img/ClassificaTurma.PNG" >
+</p>
+
+## Classificação Engenharia:
+<p align="center">
+<img src="Img/ClassificaEngenharia.PNG" >
+</p>
+
+## Configuração:
+<p align="center">
+<img src="Img/Configuracao.PNG" >
+</p>
